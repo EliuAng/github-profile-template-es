@@ -1,8 +1,6 @@
 # 👋 Hola, soy Carlos Eliu Ang Angeles
 ✏️ Soy el lider de proyectos TI
 
-💡 **Ejemplo:**
-
 Soy un **Desarrollador Full Stack** con experiencia en tecnologías como **React, Node.js y PostgreSQL**. Me apasiona crear aplicaciones web eficientes y escalables, y actualmente estoy en búsqueda de nuevos retos donde seguir aprendiendo y creciendo.
 
 ## 💻 Tecnologías Clave
